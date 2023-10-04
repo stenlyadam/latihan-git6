@@ -8,3 +8,4 @@ console.log("ngana pe nama");
 console.log("lapar ehhh");
 console.log("bowlehhh");
 console.log("makang apa kang?");
+console.log("anjeli kata")
