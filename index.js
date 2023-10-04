@@ -9,3 +9,4 @@ console.log("lapar ehhh");
 console.log("bowlehhh");
 console.log("makang apa kang?");
 console.log("anjeli kata")
+console.log("hallo dg")
