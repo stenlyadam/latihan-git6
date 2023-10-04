@@ -3,3 +3,4 @@
 console.log("tambah kode hari senin");
 console.log("Stenly Adam");
 console.log("Hello World");
+console.log("John Doe");
